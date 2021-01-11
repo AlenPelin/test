@@ -1,0 +1,1 @@
+{"version":3,"file":"PublishProviderOptions.d.ts","sourceRoot":"","sources":["../../src/PublishProviderOptions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,oBAAoB,CAAC;AAC5C,OAAO,EAAE,mBAAmB,EAAE,MAAM,GAAG,CAAC;AAExC,MAAM,WAAW,sBAAsB;IACnC,MAAM,EAAE,mBAAmB,CAAC;IAC5B,MAAM,CAAC,EAAE,MAAM,CAAC;CACnB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"UniformConfig.d.ts","sourceRoot":"","sources":["../../../src/model/UniformConfig.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC1B,oBAAoB,EAAE,MAAM,CAAC;IAC7B,eAAe,EAAE,MAAM,CAAC;IACxB,mBAAmB,EAAE,MAAM,CAAC;IAC5B,sBAAsB,EAAE,MAAM,CAAC;IAC/B,uBAAuB,EAAE,OAAO,CAAC;IACjC,qBAAqB,EAAE,OAAO,CAAC;IAC/B,8BAA8B,EAAE,OAAO,CAAC;IACxC,+BAA+B,EAAE,OAAO,CAAC;CAC5C"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"PureComponent.d.ts","sourceRoot":"","sources":["../../../src/components/PureComponent.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAI1B,OAAO,EAAE,QAAQ,EAAE,gBAAgB,EAAE,MAAM,2BAA2B,CAAC;AAEvE,qBAAa,aAAc,SAAQ,KAAK,CAAC,aAAa,CAAC;IAAE,gBAAgB,EAAE,gBAAgB,CAAA;CAAE,CAAC;IAC1F,IAAI,IAAI,IAAI,QAAQ,CAEnB;CACJ"}

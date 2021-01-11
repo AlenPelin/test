@@ -1,0 +1,1 @@
+{"version":3,"file":"activities.d.ts","sourceRoot":"","sources":["../../../../src/connectors/sitecore/activities.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,cAAc,CAAC;AAKrC,MAAM,WAAW,kBAAkB;IAC/B,CAAC,UAAU,EAAE,MAAM,GAAG,IAAI,EAAE,CAAC;CAChC;AAED,wBAAgB,kBAAkB,CAAC,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,KAAK,GAAG,kBAAkB,CAkBjF"}
