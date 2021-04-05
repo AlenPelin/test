@@ -1,0 +1,1 @@
+{"version":3,"file":"resolveJSSData.d.ts","sourceRoot":"","sources":["../../../src/renderingHost/resolveJSSData.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,0BAA0B,EAAE,MAAM,sBAAsB,CAAC;AAElE,MAAM,WAAW,iBAAiB;IAC9B,IAAI,CAAC,EAAE;QACH,IAAI,CAAC,EAAE,MAAM,EAAE,CAAC;KACnB,CAAC;CACL;AAED,wBAAgB,gCAAgC,CAAC,GAAG,EAAE,iBAAiB,GAAG,0BAA0B,CAoCnG"}

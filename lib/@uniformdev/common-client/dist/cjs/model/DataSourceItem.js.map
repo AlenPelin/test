@@ -1,1 +1,1 @@
-{"version":3,"file":"DataSourceItem.js","sourceRoot":"","sources":["../../../src/model/DataSourceItem.ts"],"names":[],"mappings":""}
+{"version":3,"file":"DataSourceItem.js","sourceRoot":"","sources":["../../../src/model/DataSourceItem.ts"],"names":[],"mappings":"","sourcesContent":["import { DataItem } from './DataItem';\r\n\r\nexport interface DataSourceItem extends DataItem {\r\n    children?: DataSourceItem[];\r\n}\r\n"]}

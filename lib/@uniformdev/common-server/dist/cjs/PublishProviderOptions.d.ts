@@ -1,5 +1,5 @@
-import { Logger } from "@uniformdev/common";
-import { UniformServerConfig } from ".";
+import { Logger } from '@uniformdev/common';
+import { UniformServerConfig } from '.';
 export interface PublishProviderOptions {
     config: UniformServerConfig;
     logger?: Logger;

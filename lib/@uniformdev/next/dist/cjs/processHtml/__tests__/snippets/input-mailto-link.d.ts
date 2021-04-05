@@ -1,0 +1,4 @@
+export declare const toString: () => string;
+export declare const inputHtml = "<div class=\"field-content\">\n  Yes please, if you are self-isolating (either because you have symptoms or\n  someone in your household has) you should inform the Volunteering Office as\n  soon as possible either by phone on&nbsp;0345 143 0191 or\n  <a href=\"mailto:volunteer@guidedogs.org.uk\">email</a>.\n</div>";
+export declare const expectedHtml = "<div class=\"field-content\">\n  Yes please, if you are self-isolating (either because you have symptoms or\n  someone in your household has) you should inform the Volunteering Office as\n  soon as possible either by phone on&nbsp;0345 143 0191 or\n  <a href=\"mailto:volunteer@guidedogs.org.uk\">email</a>.\n</div>";
+//# sourceMappingURL=input-mailto-link.d.ts.map

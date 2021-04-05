@@ -1,1 +1,0 @@
-{"version":3,"file":"RenderingProps.d.ts","sourceRoot":"","sources":["../../../src/components/RenderingProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,qEAAqE,CAAC;AAEvG,MAAM,WAAW,cACf,SAAQ,IAAI,CAAC,gBAAgB,EAAE,WAAW,GAAG,kBAAkB,GAAG,2BAA2B,GAAG,gBAAgB,CAAC;IACjH,CAAC,GAAG,EAAE,MAAM,GAAG,GAAG,CAAC;CACpB"}

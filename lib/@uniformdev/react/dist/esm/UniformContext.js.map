@@ -1,1 +1,0 @@
-{"version":3,"file":"UniformContext.js","sourceRoot":"","sources":["../../src/UniformContext.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,OAAO,CAAC;AACtC,OAAO,EAA6C,sBAAsB,EAAE,MAAM,oBAAoB,CAAC;AAQvG,MAAM,CAAC,IAAM,cAAc,GAAG,aAAa,CAAC;IACxC,aAAa,EAAE,sBAAsB,EAAgB;IACrD,IAAI,EAAE,IAAI,IAAI,EAAE;CACI,CAAC,CAAC"}

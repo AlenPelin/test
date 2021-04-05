@@ -1,4 +1,4 @@
-import { PublishProvider, PublishProviderOptions } from ".";
+import { PublishProvider, PublishProviderOptions } from '.';
 export declare class FakePublishProvider implements PublishProvider {
     private readonly logger;
     constructor({ logger }: PublishProviderOptions);

@@ -1,1 +1,1 @@
-{"version":3,"file":"uniformNextConfig.js","sourceRoot":"","sources":["../../src/uniformNextConfig.ts"],"names":[],"mappings":";;;AAAA,sBAA2B;AAEd,QAAA,iBAAiB,GAAG,SAAM,CAAC"}
+{"version":3,"file":"uniformNextConfig.js","sourceRoot":"","sources":["../../src/uniformNextConfig.ts"],"names":[],"mappings":";;;AAAA,sBAA2B;AAEd,QAAA,iBAAiB,GAAG,SAAM,CAAC","sourcesContent":["import { config } from '.';\r\n\r\nexport const uniformNextConfig = config;\r\n"]}

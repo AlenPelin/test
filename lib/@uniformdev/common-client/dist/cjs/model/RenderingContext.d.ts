@@ -9,5 +9,7 @@ export interface RenderingContext {
     html: any;
     path?: string;
     components?: any;
+    parameters?: any;
+    datasource?: any;
 }
 //# sourceMappingURL=RenderingContext.d.ts.map

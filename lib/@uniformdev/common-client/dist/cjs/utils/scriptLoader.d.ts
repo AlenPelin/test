@@ -1,4 +1,4 @@
-import { Logger } from "@uniformdev/common";
+import { Logger } from '@uniformdev/common';
 export interface ClientScript {
     id: string;
     url: string;

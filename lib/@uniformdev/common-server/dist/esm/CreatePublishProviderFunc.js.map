@@ -1,1 +1,1 @@
-{"version":3,"file":"CreatePublishProviderFunc.js","sourceRoot":"","sources":["../../src/CreatePublishProviderFunc.ts"],"names":[],"mappings":""}
+{"version":3,"file":"CreatePublishProviderFunc.js","sourceRoot":"","sources":["../../src/CreatePublishProviderFunc.ts"],"names":[],"mappings":"","sourcesContent":["import { PublishProvider, PublishProviderOptions } from '.';\r\n\r\nexport type CreatePublishProviderFunc = (options: PublishProviderOptions) => PublishProvider;\r\n"]}

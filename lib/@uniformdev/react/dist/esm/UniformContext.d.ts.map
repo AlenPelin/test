@@ -1,1 +1,0 @@
-{"version":3,"file":"UniformContext.d.ts","sourceRoot":"","sources":["../../src/UniformContext.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,MAAM,EAAE,mBAAmB,EAAE,YAAY,EAA0B,MAAM,oBAAoB,CAAC;AAEvG,MAAM,WAAW,mBAAmB;IAChC,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,aAAa,CAAC,EAAE,mBAAmB,CAAC,YAAY,CAAC,CAAC;IAClD,IAAI,EAAE,IAAI,CAAC;CACd;AAED,eAAO,MAAM,cAAc,8CAGF,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"buildDefaultNodeProcessor.d.ts","sourceRoot":"","sources":["../../../../src/processHtml/elements/buildDefaultNodeProcessor.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,yBAAyB,EAAE,MAAM,8BAA8B,CAAC;AACzE,OAAO,EAAE,MAAM,EAAE,MAAM,oBAAoB,CAAC;AAO5C,eAAO,MAAM,kBAAkB,SAAU,GAAG,YAAY,GAAG,SAAS,MAAM,QAEzE,CAAC;AAOF,eAAO,MAAM,yBAAyB,WAAY,MAAM,KAAG,yBAWzD,CAAC"}

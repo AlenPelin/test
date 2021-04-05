@@ -1,0 +1,1 @@
+{"version":3,"file":"isWindowDefined.js","sourceRoot":"","sources":["../../../src/utils/isWindowDefined.ts"],"names":[],"mappings":";;;AAAa,QAAA,eAAe,GAAG,cAAM,OAAA,OAAO,MAAM,KAAK,WAAW,EAA7B,CAA6B,CAAC","sourcesContent":["export const isWindowDefined = () => typeof window !== 'undefined';\r\n"]}

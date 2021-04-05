@@ -1,1 +1,1 @@
-{"version":3,"file":"PublishProviderOptions.js","sourceRoot":"","sources":["../../src/PublishProviderOptions.ts"],"names":[],"mappings":""}
+{"version":3,"file":"PublishProviderOptions.js","sourceRoot":"","sources":["../../src/PublishProviderOptions.ts"],"names":[],"mappings":"","sourcesContent":["import { Logger } from '@uniformdev/common';\r\nimport { UniformServerConfig } from '.';\r\n\r\nexport interface PublishProviderOptions {\r\n    config: UniformServerConfig;\r\n    logger?: Logger;\r\n}\r\n"]}

@@ -6,6 +6,5 @@ export interface UniformConfig {
     UNIFORM_OPTIONS_PREVIEW: boolean;
     UNIFORM_OPTIONS_DEBUG: boolean;
     UNIFORM_OPTIONS_PREFETCH_LINKS: boolean;
-    UNIFORM_OPTIONS_MVC_SPA_ENABLED: boolean;
 }
 //# sourceMappingURL=UniformConfig.d.ts.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"createPublishProvider.d.ts","sourceRoot":"","sources":["../../src/createPublishProvider.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,sBAAsB,EAAE,MAAM,2BAA2B,CAAC;AAEnE,OAAO,EAAE,eAAe,EAA+C,MAAM,2BAA2B,CAAC;AAEzG,wBAAgB,qBAAqB,CAAC,OAAO,EAAE,sBAAsB,GAAI,eAAe,CAevF"}
+{"version":3,"file":"createPublishProvider.d.ts","sourceRoot":"","sources":["../../src/createPublishProvider.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,sBAAsB,EAAE,MAAM,2BAA2B,CAAC;AAEnE,OAAO,EAAE,eAAe,EAA8C,MAAM,2BAA2B,CAAC;AAExG,wBAAgB,qBAAqB,CAAC,OAAO,EAAE,sBAAsB,GAAG,eAAe,CAetF"}

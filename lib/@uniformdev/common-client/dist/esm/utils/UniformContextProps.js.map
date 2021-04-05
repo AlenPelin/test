@@ -1,1 +1,1 @@
-{"version":3,"file":"UniformContextProps.js","sourceRoot":"","sources":["../../../src/utils/UniformContextProps.ts"],"names":[],"mappings":""}
+{"version":3,"file":"UniformContextProps.js","sourceRoot":"","sources":["../../../src/utils/UniformContextProps.ts"],"names":[],"mappings":"","sourcesContent":["import { Logger } from '@uniformdev/common';\r\n\r\nexport interface ComponentMap {\r\n    [key: string]: React.ComponentType;\r\n}\r\n\r\nexport interface UniformContextProps {\r\n    componentMap: ComponentMap;\r\n    logger: Logger;\r\n}\r\n"]}

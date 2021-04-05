@@ -1,0 +1,1 @@
+{"version":3,"file":"StaticAssetContext.d.ts","sourceRoot":"","sources":["../../../src/components/StaticAssetContext.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAiB,SAAS,EAAE,MAAM,OAAO,CAAC;AAExD,eAAO,MAAM,kBAAkB;;EAE7B,CAAC;AAUH,UAAU,+BAA+B;IACrC,WAAW,EAAE,MAAM,CAAC;IACpB,QAAQ,EAAE,SAAS,CAAC;CACvB;AAED,eAAO,MAAM,0BAA0B,+BAGpC,+BAA+B,gBAUjC,CAAC"}

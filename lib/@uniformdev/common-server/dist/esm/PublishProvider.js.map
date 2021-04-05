@@ -1,1 +1,1 @@
-{"version":3,"file":"PublishProvider.js","sourceRoot":"","sources":["../../src/PublishProvider.ts"],"names":[],"mappings":""}
+{"version":3,"file":"PublishProvider.js","sourceRoot":"","sources":["../../src/PublishProvider.ts"],"names":[],"mappings":"","sourcesContent":["export interface PublishProvider {\r\n    behavior: 'replace-on-deploy' | 'update-on-deploy';\r\n\r\n    deploy(path: string): Promise<void>;\r\n}\r\n"]}

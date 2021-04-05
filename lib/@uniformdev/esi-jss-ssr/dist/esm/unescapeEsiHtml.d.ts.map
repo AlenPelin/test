@@ -1,1 +1,0 @@
-{"version":3,"file":"unescapeEsiHtml.d.ts","sourceRoot":"","sources":["../../src/unescapeEsiHtml.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,mBAAmB,EAAE;IAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;CAA8D,CAAC;AAExH,wBAAgB,eAAe,CAAC,IAAI,EAAE,MAAM,EAAE,YAAY,GAAE;IAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;CAAwB,UAmB1G"}

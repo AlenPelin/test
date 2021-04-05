@@ -11,10 +11,6 @@ export * from './replace';
 export * from './errorToJsonObject';
 export * from './getPropertyByPath';
 export * from './getApiUrlWithToken';
-export * from './getNestedObjectProp';
 export * from './parseUniformConfig';
 export * from './fetchWithRetry';
-export * from './global';
-export * from './arrays';
-export * from './objects';
 //# sourceMappingURL=index.d.ts.map

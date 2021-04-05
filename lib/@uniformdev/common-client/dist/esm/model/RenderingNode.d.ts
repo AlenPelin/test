@@ -1,4 +1,4 @@
-import { RenderingContext } from ".";
+import { RenderingContext } from '.';
 export declare enum RenderingType {
     mvc = "MvcRendering",
     javascript = "JavaScriptRendering"
